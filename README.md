@@ -1,5 +1,10 @@
 # Power_bi-Analysis-for-Nassau-Candy-Distributor
 
+
+## Live Dashboard Link
+View Live Power BI Dashboard:  
+https://app.powerbi.com/view?r=eyJrIjoiMTBmYWYxYmQtZTlhYS00MTQyLTgzY2EtYjlmNmE1NWMzNjAxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ## Project Overview
 This Power BI project analyzes shipping performance and route efficiency for the Nassau Candy Distributor.  
 The dashboard helps identify delivery delays, inefficient routes, and shipping mode performance to support data-driven logistics decisions.
@@ -47,9 +52,9 @@ The dashboard helps identify delivery delays, inefficient routes, and shipping m
 
 ---
 
-## Live Dashboard Link
-View Live Power BI Dashboard:  
-https://app.powerbi.com/view?r=eyJrIjoiMTBmYWYxYmQtZTlhYS00MTQyLTgzY2EtYjlmNmE1NWMzNjAxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+## Dashboard Preview
+<img width="1920" height="1080" alt="Screenshot (376)" src="https://github.com/user-attachments/assets/8840d13b-3bea-487a-8053-fb96d9e73ce9" />
+
 
 ---
 
